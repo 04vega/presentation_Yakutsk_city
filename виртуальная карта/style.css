@@ -1,0 +1,13 @@
+@font-face {
+	font-family: bs;
+	src: url(bs.ttf);
+}
+.text {
+	font-family: bs;
+}
+.block {
+	transition: 0.8s;
+}
+.block:hover {
+	transform: scale(1.05);
+}
